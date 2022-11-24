@@ -2,7 +2,7 @@
 - 👀 I’m interested in Plugin revamping
 - 🌱 I’m currently learning what is going on
 - 💞️ I’m looking to collaborate on next gen shop plugin
-- 📫 How to reach me Discord https://discord.gg/cbMFUjvkJ4
+- 📫 How to reach me Discord https://discord.gg/Name#0003
 - 🎵 music I code too: https://soundcloud.com/jokij2/sets/streaming-play-list
 <!---
 name2013/name2013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
